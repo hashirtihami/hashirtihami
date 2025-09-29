@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, It's Hash 👋
+A software engineer turned product designer with 5+ years of experience across diverse environments, from agencies to B2C and B2B products.
 <!--
 **hashirtihami/hashirtihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
