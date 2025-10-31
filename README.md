@@ -1,5 +1,7 @@
 ## Hi there, It's Hash 👋
 A software engineer turned product designer with 5+ years of experience across diverse environments, from agencies to B2C and B2B products.
+
+You can find my portfolio at <a href="https://hashirtihami.com"> Portfolio </a>
 <!--
 **hashirtihami/hashirtihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
